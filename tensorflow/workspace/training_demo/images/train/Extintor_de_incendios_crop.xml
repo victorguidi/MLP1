@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Extintor_de_incendios_crop.jpeg</filename>
+	<path>/run/media/victor/linux/dev/python/p1/tensorflow/workspace/training_demo/images/Extintor_de_incendios_crop.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>471</width>
+		<height>1208</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>extintor6</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>426</ymin>
+			<xmax>429</xmax>
+			<ymax>1194</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>images.jpeg</filename>
+	<path>/run/media/victor/linux/dev/python/p1/tensorflow/workspace/training_demo/images/images.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>264</width>
+		<height>191</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>extintor8</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>42</ymin>
+			<xmax>154</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+</annotation>

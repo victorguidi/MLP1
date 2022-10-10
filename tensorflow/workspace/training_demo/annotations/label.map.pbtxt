@@ -1,0 +1,54 @@
+item {
+    id: 1
+    name: 'extintor1'
+}
+
+item {
+    id: 2
+    name: 'extintor2'
+}
+
+item {
+    id: 3
+    name: 'extintor3'
+}
+
+item {
+    id: 4
+    name: 'extintor4'
+}
+
+item {
+    id: 5
+    name: 'extintor5'
+}
+
+item {
+    id: 6
+    name: 'extintor6'
+}
+
+item {
+    id: 7
+    name: 'extintor7'
+}
+
+item {
+    id: 8
+    name: 'extintor8'
+}
+
+item {
+    id: 9
+    name: 'extintor9'
+}
+
+item {
+    id: 10
+    name: 'extintor10'
+}
+
+item {
+    id: 11
+    name: 'extintor11'
+}
